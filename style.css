@@ -1,0 +1,42 @@
+header{
+    background-color: blueviolet;
+    text-align: center;
+    padding: 12px;
+    border: 12px;
+    border-radius: 5px;
+}
+nav{
+background-color:black;
+color: violet;
+text-align: center;
+padding: 12px;
+border: 5px;
+border-radius: 5px;
+}
+main{
+   background-color: white;
+   text-align: center;
+   display: grid;
+   padding: 12px;
+}
+.gambarhalaman{
+    width: 500px;
+    margin-top: 12px;
+    padding-top: 12px;
+    
+}
+footer{
+    text-align: center;
+    background-color: blueviolet;
+    color: rgb(3, 0, 0);
+    padding: 12px;
+    border-radius: 12px;
+}
+
+article p {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 50px;
+    border: 50px;
+    border-radius: 5px;
+}
